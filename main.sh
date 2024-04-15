@@ -1,4 +1,5 @@
-sudo apt install make 
+sudo apt install make
+cd tools_installation_scripts
 #make git_clone
 make install_maven
 make install_docker
